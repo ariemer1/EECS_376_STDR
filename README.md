@@ -9,3 +9,5 @@ to start the simulator.  Run a simple, open-loop command sequence with:
 Code has been updated by Andrew Riemer to move the STDR mobile robot from the bottom left hand corner of the map to the upper left hand corner
     
 # EECS_376_STDR
+# EECS_376_STDR
+# EECS376-STDR
